@@ -1,0 +1,2 @@
+# LeetCode
+Idea for LeetCode
